@@ -1,0 +1,25 @@
+{
+  "name": "js-obchod",
+  "version": "1.0.0",
+  "description": "Obchod",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkotlan007/node-js-obchod.git"
+  },
+  "keywords": [
+    "nodejs",
+    "rest",
+    "api",
+    "mongodb"
+  ],
+  "author": "Jaroslav Kotlán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkotlan007/node-js-obchod/issues"
+  },
+  "homepage": "https://github.com/jkotlan007/node-js-obchod#readme"
+}
